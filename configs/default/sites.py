@@ -28,7 +28,7 @@ MIN_CHECKIN_TRAFFIC = 10 * MB
 MAX_CHECKIN_TRAFFIC = 200 * MB
 
 # 网站title
-TITLE = "谜之屋"
+TITLE = "阿甘的小屋"
 SUBTITLE = "秘密的小屋"
 
 # 用户邀请返利比例
